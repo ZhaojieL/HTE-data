@@ -5,7 +5,7 @@ You can download HTE-data by [Google drive](https://drive.google.com/file/d/14At
 
 ## Overview of data
 
-We introduced the HTE 1 dataset for real world emotional VC testing evaluation. The dataset consists of 100 parallel utterances including 50 sales conversation utterances and 50 phonetically balanced sentences with an average duration of 5 seconds spoken by 6 native Japanese voice actors (3 males and 3 females). Each sentence is spoken with two scenarios: 1) acting as a salesperson who speaks in a high tension emotional voice, and 2) acting like a normal person who speaks in a neutral voice. Speech data are
+We introduced the HTE 1 dataset for real world emotional VC testing evaluation. The dataset consists of 100 parallel utterances including 50 sales conversation utterances and 50 phonetically balanced sentences with an average duration of 5 seconds spoken by 6 native Japanese voice actors (3 males and 3 females). Each sentence is spoken with two scenarios: 1) acting as a salesperson who speaks in a high tension emotional voice, and 2) acting like a normal person who speaks in a neutral voice. Speech data are
 sampled at 16 kHz rate with 16 bits resolution.
 
 
